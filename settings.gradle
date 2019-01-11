@@ -1,1 +1,1 @@
-include ':app', ':EmailValidator'
+include ':app', ':EmailValidator', ':NameValidator'
